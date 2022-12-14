@@ -1,13 +1,39 @@
 .container {
     border: 1px solid;
-    width: 500px;
+    width: 80vw;
+    padding: 10px;
 }
 .p1 {
     border: 1px solid;
+    width: 158px;
+    height: 68px;
+    margin-left: -30px;
 }
-.chaton1 {
+
+.p2 {
+    border: 1px solid;
+    width: 158px;
+    height: 68px;
+    margin-left: -30px;
+}
+
+.v1 {
     border: 1px solid;
     width: 100px;
     height: 150px;
     padding: 30px;
+}
+.v2 {
+    border: 1px solid;
+    width: 100px;
+    height: 150px;
+    padding: 30px;
+}
+
+.chaton1 {
+    margin-top: -25px;
+}
+
+.chaton2 {
+    margin-top: -25px;
 }
