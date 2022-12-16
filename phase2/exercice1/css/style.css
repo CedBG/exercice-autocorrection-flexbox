@@ -14,18 +14,43 @@
 .nav {
     background-color: lightskyblue;
     height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
 }
 
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav li {
+    justify-content: space-evenly;
+}
+
+.nav a {
+    justify-content: space-evenly;
+}
 
 .main {
     background-color: lightgreen;
     height: 60vh;
 }
 
-.section {
+.main .section {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.section p {
     background-color: rgb(236, 236, 114);
     height: 20vh;
     width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
 }
 
 .footer {
@@ -33,7 +58,5 @@
     height: 5vh;
 }
 
-.section {
-    justify-content: center;
-}
+
 
