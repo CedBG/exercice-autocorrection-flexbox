@@ -1,0 +1,46 @@
+.container {
+    border: 1px solid;
+    width: 80vw;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.p1 {
+    width: 160px;
+    height: 59px;
+    margin-left: -30px;
+    text-align: center;
+    background-color: lightgrey;
+    padding-top: 10px;
+}
+
+.p2 {
+    width: 160px;
+    height: 59px;
+    margin-left: -30px;
+    text-align: center;
+    background-color: lightgrey;
+    padding-top: 10px;
+}
+
+.v1 {
+    border: 1px solid;
+    width: 100px;
+    height: 150px;
+    padding: 30px;
+}
+.v2 {
+    border: 1px solid;
+    width: 100px;
+    height: 150px;
+    padding: 30px;
+}
+}
+
+.chaton1 {
+    margin-top: -25px;
+}
+
+.chaton2 {
+    margin-top: -25px;
+}

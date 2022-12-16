@@ -1,0 +1,39 @@
+
+
+.container {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    align-content: space-around;
+    gap: -16px;
+    column-gap: 10px;
+    height: 600px;
+    border: 1px solid;
+    width: 42vw;
+    padding: 10px;
+}
+.p1 {
+    width: 160px;
+    height: 59px;
+    margin-left: -30px;
+    text-align: center;
+    background-color: lightgrey;
+    padding-top: 10px;
+}
+
+
+
+.v1 ,.v2 ,.v3 ,.v4 ,.v5 ,.v6{
+    border: 1px solid;
+    width: 100px;
+    height: 150px;
+    padding: 30px;
+    
+}
+
+.chaton2 {
+    margin-top: -25px;
+}
